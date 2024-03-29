@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @matteemol
 
-I'm starting my journey as a dev, taking my first steps in web/dapps programming and collaboration.
 
-I hope to update this file several times in the next months, adding all my new skills!
+I studied chemistry in the university, also worked as a chemist in the pharma industry for some time ( i > 10y), and loved chemistry since the beginning (who didn't have a chemistry kit as 7
+
+Now, I'm taking a life spin off: starting a journey as a dev, taking my first steps in programming and collaboration in actual, useful proyects.
 
 You can reach me out in twitter @matteemol by the time being.
 
